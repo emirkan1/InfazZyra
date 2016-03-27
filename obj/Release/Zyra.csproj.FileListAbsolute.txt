@@ -1,0 +1,10 @@
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Zyra\Zyra\bin\Release\Zyra.exe.config
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Zyra\Zyra\bin\Release\Zyra.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Zyra\Zyra\bin\Release\Zyra.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Zyra\Zyra\bin\Release\EloBuddy.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Zyra\Zyra\bin\Release\EloBuddy.SDK.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Zyra\Zyra\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Zyra\Zyra\bin\Release\SharpDX.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Zyra\Zyra\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Zyra\Zyra\obj\Release\Zyra.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\Zyra\Zyra\obj\Release\Zyra.pdb
